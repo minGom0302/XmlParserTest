@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String URL = "https://apis.data.go.kr/1262000/CountryBasicService/";
-        String serviceKey = "IigVgrA8KY3lQIG3RDCY3MPQRvX6mP5LfayEe7bv5LaX9RgF%2F%2FtcJQB1Bg6C2xGAvlwl5yTNRAckKCL2kUuSOw%3D%3D";
+        String serviceKey = "발급받은 서비스 키";
         String country = "가나";
         String TAG = String.valueOf(getClass());
 

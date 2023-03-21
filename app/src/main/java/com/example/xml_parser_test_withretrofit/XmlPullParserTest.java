@@ -25,7 +25,7 @@ public class XmlPullParserTest extends AppCompatActivity {
         setContentView(R.layout.activity_xml_pull_parser);
 
         String firstURL = "https://apis.data.go.kr/1262000/CountryBasicService/getCountryBasicList?serviceKey=";
-        String serviceKey = "IigVgrA8KY3lQIG3RDCY3MPQRvX6mP5LfayEe7bv5LaX9RgF%2F%2FtcJQB1Bg6C2xGAvlwl5yTNRAckKCL2kUuSOw%3D%3D";
+        String serviceKey = "발급받은 서비스키";
         String secURL = "&numOfRows=200&pageNo=1&countryName=가나";
         String TAG = String.valueOf(getClass());
 
